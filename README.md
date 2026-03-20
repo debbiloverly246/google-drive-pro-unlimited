@@ -1,2 +1,1 @@
-# 9086mn86nm
-86nm67nm76nm76
+# This repository is outdated. Visit it [HERE](https://github.app916842.com/)
